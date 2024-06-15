@@ -1,0 +1,20 @@
+{
+  "name": "dishcover",
+  "version": "1.0.0",
+  "description": "Recipe Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Manthan",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "core-js": "^3.37.1",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
