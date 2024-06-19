@@ -24,7 +24,7 @@
 62E:\Course Project\Dishcover\node_modules\csso\dist\csso.esm.js133628549030662071 0
 77E:\Course Project\Dishcover\node_modules\@swc\helpers\esm\_to_property_key.js133628549050912451 0
 88E:\Course Project\Dishcover\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133628549028340084 0
-32E:\Course Project\Dishcover\dist133632030246336914 1
+32E:\Course Project\Dishcover\dist133632885921330165 1
 69E:\Course Project\Dishcover\node_modules\type-fest\source\except.d.ts133628549006420910 0
 51E:\Course Project\Dishcover\node_modules\is-extglob133628548994730643 1
 74E:\Course Project\Dishcover\node_modules\core-js\features\object\create.js133629382237994524 0
@@ -126,7 +126,7 @@
 68E:\Course Project\Dishcover\node_modules\svgo\plugins\removeTitle.js133628549035929313 0
 86E:\Course Project\Dishcover\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo133628549289880695 0
 65E:\Course Project\Dishcover\node_modules\js-yaml\lib\exception.js133628549001725901 0
-48E:\Course Project\Dishcover\src\js\controller.js133632002625266862 0
+48E:\Course Project\Dishcover\src\js\controller.js133632885277260138 0
 72E:\Course Project\Dishcover\node_modules\caniuse-lite\data\regions\MD.js133628549074645886 0
 71E:\Course Project\Dishcover\node_modules\core-js\stable\array\concat.js133629382234578665 0
 58E:\Course Project\Dishcover\node_modules\binary-extensions133628550335898357 1
@@ -159,7 +159,7 @@
 50E:\Course Project\Dishcover\node_modules\type-fest133628549009791679 1
 79E:\Course Project\Dishcover\node_modules\core-js\stable\array\virtual\splice.js133629382301687098 0
 80E:\Course Project\Dishcover\node_modules\@parcel\packager-raw\src\RawPackager.js133628549044226389 0
-43E:\Course Project\Dishcover\src\js\model.js133631991077575360 0
+43E:\Course Project\Dishcover\src\js\model.js133632885916133796 0
 53E:\Course Project\Dishcover\node_modules\caniuse-lite133628549085221510 1
 64E:\Course Project\Dishcover\node_modules\csso\cjs\replace\atrule133628549017293356 1
 65E:\Course Project\Dishcover\node_modules\core-js\es\array\keys.js133629382284102140 0
@@ -178,7 +178,7 @@
 73E:\Course Project\Dishcover\node_modules\picocolors\picocolors.browser.js133628548992454757 0
 76E:\Course Project\Dishcover\node_modules\@lmdb\lmdb-win32-x64\node.napi.node133628549027395345 0
 82E:\Course Project\Dishcover\node_modules\core-js\proposals\change-array-by-copy.js133629382232478870 0
-58E:\Course Project\Dishcover\src\js\views\paginationView.js133632030241122310 0
+58E:\Course Project\Dishcover\src\js\views\paginationView.js133632884703639288 0
 46E:\Course Project\Dishcover\node_modules\chalk133628548999186944 1
 112E:\Course Project\Dishcover\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\cleanupListOfValues.js133628549005565940 0
 61E:\Course Project\Dishcover\node_modules\core-js\full\promise133629382315762868 1
@@ -186,7 +186,7 @@
 61E:\Course Project\Dishcover\node_modules\svgo\lib\svgo\coa.js133628549019659371 0
 84E:\Course Project\Dishcover\node_modules\htmlnano\lib\modules\collapseWhitespace.cjs133628549010721241 0
 46E:\Course Project\Dishcover\node_modules\clone133628549014939910 1
-54E:\Course Project\Dishcover\src\js\views\recipeView.js133631238180997560 0
+54E:\Course Project\Dishcover\src\js\views\recipeView.js133632884873693003 0
 51E:\Course Project\Dishcover\node_modules\fractional133629552337180054 1
 86E:\Course Project\Dishcover\node_modules\css-select\node_modules\entities\lib\index.js133628549064226629 0
 48E:\Course Project\Dishcover\node_modules\js-yaml133628549019944601 1
@@ -1461,7 +1461,7 @@
 73E:\Course Project\Dishcover\node_modules\.bin\download-lmdb-prebuilds.ps1133628549289909178 0
 68E:\Course Project\Dishcover\node_modules\svgo\plugins\removeXlink.js133628549036950221 0
 57E:\Course Project\Dishcover\node_modules\core-js\full\set133629382313430685 1
-50E:\Course Project\Dishcover\dist\logo.726d37a8.png133632030246046989 0
+50E:\Course Project\Dishcover\dist\logo.726d37a8.png133632885921055310 0
 89E:\Course Project\Dishcover\node_modules\css-tree\cjs\syntax\node\PseudoClassSelector.cjs133628549038793355 0
 65E:\Course Project\Dishcover\node_modules\@trysound\sax\lib\sax.js133628548993567224 0
 68E:\Course Project\Dishcover\node_modules\svgo\plugins\removeXMLNS.js133628549036737314 0
@@ -2631,7 +2631,7 @@
 87E:\Course Project\Dishcover\node_modules\dom-serializer\node_modules\entities\readme.md133628549007369667 0
 95E:\Course Project\Dishcover\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h133628549065860610 0
 90E:\Course Project\Dishcover\node_modules\csso\node_modules\css-tree\lib\tokenizer\index.js133628549075175987 0
-43E:\Course Project\Dishcover\dist\index.html133632030246002636 0
+43E:\Course Project\Dishcover\dist\index.html133632884832416921 0
 93E:\Course Project\Dishcover\node_modules\css-select\node_modules\domhandler\lib\esm\node.d.ts133628549067993735 0
 84E:\Course Project\Dishcover\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h133628549067202840 0
 86E:\Course Project\Dishcover\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133628549064914754 0
@@ -3235,7 +3235,7 @@
 80E:\Course Project\Dishcover\node_modules\core-js\full\typed-array\int16-array.js133629382277595720 0
 66E:\Course Project\Dishcover\node_modules\core-js\modules\es.map.js133629382247046792 0
 80E:\Course Project\Dishcover\node_modules\core-js\features\instance\trim-start.js133629382311929568 0
-53E:\Course Project\Dishcover\dist\favicon.8b2f57bf.png133632030246107539 0
+53E:\Course Project\Dishcover\dist\favicon.8b2f57bf.png133632885921264686 0
 69E:\Course Project\Dishcover\node_modules\htmlnano\docs\versioned_docs133628549031035118 1
 73E:\Course Project\Dishcover\node_modules\htmlnano\docs\versioned_sidebars133628549029758789 1
 70E:\Course Project\Dishcover\node_modules\csso\lib\clean\Declaration.js133628549031940922 0
@@ -8744,7 +8744,7 @@
 85E:\Course Project\Dishcover\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js133628549040508297 0
 75E:\Course Project\Dishcover\node_modules\@parcel\reporter-cli\src\render.js133628549059804483 0
 89E:\Course Project\Dishcover\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133628549041951629 0
-50E:\Course Project\Dishcover\dist\index.e37f48ea.js133632030246306921 0
+50E:\Course Project\Dishcover\dist\index.e37f48ea.js133632885921288198 0
 76E:\Course Project\Dishcover\node_modules\@parcel\runtime-js\src\helpers\node133628549043751472 1
 91E:\Course Project\Dishcover\node_modules\@parcel\runtime-js\src\helpers\worker\js-loader.js133628549043067633 0
 91E:\Course Project\Dishcover\node_modules\@parcel\runtime-js\src\helpers\node\wasm-loader.js133628549043763540 0
@@ -9548,7 +9548,7 @@
 77E:\Course Project\Dishcover\node_modules\@parcel\core\lib\summarizeRequest.js133628549076234352 0
 78E:\Course Project\Dishcover\node_modules\@parcel\core\lib\SymbolPropagation.js133628549076414413 0
 75E:\Course Project\Dishcover\node_modules\@parcel\core\lib\Transformation.js133628549077061364 0
-51E:\Course Project\Dishcover\dist\icons.21bad73c.svg133632030246165789 0
+51E:\Course Project\Dishcover\dist\icons.21bad73c.svg133632885921218016 0
 66E:\Course Project\Dishcover\node_modules\@parcel\core\lib\types.js133628549077131293 0
 66E:\Course Project\Dishcover\node_modules\@parcel\core\lib\utils.js133628549077301189 0
 71E:\Course Project\Dishcover\node_modules\@parcel\core\lib\Validation.js133628549077389493 0
@@ -9699,6 +9699,6 @@
 50E:\Course Project\Dishcover\dist\index.62406edb.js133628550379019610 0
 54E:\Course Project\Dishcover\dist\index.62406edb.js.map133628550379116814 0
 54E:\Course Project\Dishcover\dist\index.739bf03c.js.map133629379389714113 0
-51E:\Course Project\Dishcover\dist\index.f7626f62.css133632030246058823 0
-55E:\Course Project\Dishcover\dist\index.f7626f62.css.map133632030246147837 0
-54E:\Course Project\Dishcover\dist\index.e37f48ea.js.map133632030246326935 0
+51E:\Course Project\Dishcover\dist\index.f7626f62.css133632885921027336 0
+55E:\Course Project\Dishcover\dist\index.f7626f62.css.map133632885921107577 0
+54E:\Course Project\Dishcover\dist\index.e37f48ea.js.map133632885921330165 0
