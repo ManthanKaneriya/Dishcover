@@ -16,6 +16,13 @@ export default class View {
     this._parentElement.insertAdjacentHTML("afterbegin", markup);
   }
 
+  update(data) {
+    this._data = data;
+    const markup = this._generateMarkup();
+    this._clear();
+    this._parentElement.insertAdjacentHTML("afterbegin", markup);
+  }
+
   renderSpinner() {
     const markup = `
     <div class="spinner">
