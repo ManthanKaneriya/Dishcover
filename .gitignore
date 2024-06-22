@@ -7,6 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+.parcel-cache
 node_modules
 dist
 dist-ssr
@@ -22,3 +23,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.parcel-cache/7f973df67467291d-AssetGraph-0
+.parcel-cache/7f973df67467291d-AssetGraph-0
+.parcel-cache/7f973df67467291d-AssetGraph-0
+.gitignore

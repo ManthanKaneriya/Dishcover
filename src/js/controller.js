@@ -45,7 +45,7 @@ const controlSearchResults = async function () {
 
     paginationView.render(model.state.search);
   } catch (err) {
-    console.log(err);
+    console.error(err);
   }
 };
 
@@ -77,7 +77,6 @@ const controlBookmark = function () {
 const controlNewRecipe = async function (newRecipe) {
   try {
     await model.uploadRecipe(newRecipe);
-    console.log(model.state.recipe);
 
     addRecipeView.renderSpinner();
 

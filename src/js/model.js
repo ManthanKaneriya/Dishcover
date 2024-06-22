@@ -48,7 +48,6 @@ export const loadSearchResults = async function (query) {
     state.search.query = query;
 
     const data = await AJAX(`${API_URL}?search=${query}&key=${KEY}`);
-    console.log(data);
     state.search.results = data.data.recipes.map((rec) => {
       return {
         id: rec.id,
@@ -97,7 +96,6 @@ export const addBookmark = function (recipe) {
 export const deleteBookmark = function (id) {
   const index = state.bookmarks.findIndex((el) => el.id === id);
   state.bookmarks.splice(index, 1);
-  console.log(id);
 
   if (id === state.recipe.id) state.recipe.bookmarked = false;
 
@@ -141,10 +139,6 @@ export const uploadRecipe = async function (newRecipe) {
     const data = await AJAX(`${API_URL}?key=${KEY}`, recipe);
     state.recipe = createRecipeObject(data);
     addBookmark(state.recipe);
-
-    /*  const data = await AJAX(`${API_URL}?key=${KEY}`, recipe);
-    state.recipe = createRecipeObject(data);
-    addBookmark(state.recipe); */
   } catch (err) {
     throw err;
   }
