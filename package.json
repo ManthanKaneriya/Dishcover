@@ -5,7 +5,7 @@
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
+    "build": "parcel build index.html"
   },
   "author": "Manthan",
   "license": "ISC",
@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "core-js": "^3.37.1",
-    "fractional": "^1.0.0",
     "regenerator-runtime": "^0.14.1"
   }
 }
